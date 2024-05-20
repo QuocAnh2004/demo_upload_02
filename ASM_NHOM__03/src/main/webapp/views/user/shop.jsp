@@ -12,7 +12,7 @@
 </head>
 <body>
 <%@ include file="/common/header.jsp" %>
-
+	<h1>CMMMMM</h1>
     <!-- Fruits Shop Start-->
      <div class="container-fluid fruite py-5">
          <div class="container py-5">
